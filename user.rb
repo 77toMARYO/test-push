@@ -4,7 +4,7 @@ class User
   end
 
   def greet
-    puts "Hello," + @name + "!."
+    puts "Good afternoon," + @name + "!."
   end
 end
 
